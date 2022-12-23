@@ -8,6 +8,7 @@ public class JunTestJenkins4Application {
 
     public static void main(String[] args) {
         System.out.println("hi");
+        System.out.println("hi");
         SpringApplication.run(JunTestJenkins4Application.class, args);
     }
 
